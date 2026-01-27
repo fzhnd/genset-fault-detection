@@ -34,7 +34,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 ```
 ### Running the Project
 1. Clone this repository.
-2. Ensure your dataset is in the `data/` folder:
+2. Ensure dataset is in the `data` folder:
 * `data/genset_vibration.csv`
 * `data/genset_label.csv`
 3. Run the notebook:
